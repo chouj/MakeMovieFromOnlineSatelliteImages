@@ -32,7 +32,7 @@ Online images can be fetched by using ```imread```.
 - Windows code.
 - Noncommercial use only.
 
-## Instance 1 - rgb.m
+## Instance 3 - rgb.m
 
 ### Description:
 
@@ -46,7 +46,7 @@ Use ```regexp``` to find urls of images and use curl command to download them.
 
 ### Note:
 - Windows code.
-- Curl command line tool is required. (https://curl.haxx.se/)
+- [Curl command line tool](https://curl.haxx.se/) is required. 
 - Noncommercial use only.
 
 
